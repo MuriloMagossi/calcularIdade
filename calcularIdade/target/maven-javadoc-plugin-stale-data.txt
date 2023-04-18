@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/Murilo Magossi/Desktop/calcularIdade/target/classes;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/Murilo Magossi/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar'
+--patch-module
+com.mycompany.calcularidade='C:/Users/Murilo Magossi/Desktop/calcularIdade/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/Murilo Magossi/Desktop/calcularIdade/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Murilo Magossi/Desktop/calcularIdade/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calcularIdade 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Murilo Magossi/Desktop/calcularIdade/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'calcularIdade 1.0-SNAPSHOT API'
+com.mycompany.calcularidade
+'C:/Users/Murilo Magossi/Desktop/calcularIdade/src/main/java/module-info.java'
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\allclasses-index.html = 1681839528004
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\allpackages-index.html = 1681839528007
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\element-list = 1681839527935
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\help-doc.html = 1681839528036
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\index-all.html = 1681839528026
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\index.html = 1681839528028
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\jquery-ui.overrides.css = 1681839528055
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\member-search-index.js = 1681839528012
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\module-search-index.js = 1681839528008
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\overview-tree.html = 1681839527992
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\package-search-index.js = 1681839528010
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\script.js = 1681839528041
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\search.js = 1681839528043
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\stylesheet.css = 1681839528039
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\tag-search-index.js = 1681839528014
+C:\Users\Murilo Magossi\Desktop\calcularIdade\target\site\apidocs\type-search-index.js = 1681839528011
