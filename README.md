@@ -9,4 +9,4 @@
 
 ## Desenvolvido em Java FXML
 
-1.Necessário JDK para realizar a execução do Programa.
+  Necessário JDK para realizar a execução do Programa.
